@@ -1,3 +1,4 @@
 <keys>
-    <key id="0x1234" value="hex:32-byte-key-here" />
+    <key id="0x1234" value="hex:00112233445566778899aabbccddeeff00112233445566778899aabbccddeeff" />
+    <!-- Add your real Key IDs and 64-character hex keys (32 bytes) -->
 </keys>
